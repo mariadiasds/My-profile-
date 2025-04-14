@@ -1,7 +1,7 @@
-## Hello, My name is Maria Luiza.
+## Hello word, My name is Maria Luiza.
  (Java | Python | React/Node JS | Angular | Typescript | NET | Javascript | HTML | C* )
  
-- 👀 I work as a Software developer.
+- 👀 I work as a Software developer and Data analytcs.
 - 👩‍💻 Study web development.
 
 <div style="display: inline_block"><br>
